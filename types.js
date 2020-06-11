@@ -1,0 +1,16 @@
+var myString = 'hola';
+var myNumber = 1;
+var myBool = false;
+var myVar = false;
+var strArr = ['a', 'b', 'c'];
+var numArr = [1, 2, 3,];
+var boolArr = [true, false, true];
+var strrArr = ['d', 'd', 'd'];
+var nummArr = [1, 2, 3, 3];
+var bollArr = [false, true, false];
+var myyArr = [1, 'true', false];
+var tuple = ['hai', 1];
+var myVoid = undefined;
+var myNull = null;
+var myUndifined = null;
+console.log(tuple);
